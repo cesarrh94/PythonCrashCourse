@@ -1,4 +1,4 @@
-# WHAT IS A STRING?
+# what is a string??
 # a string is a series of characters, anything inside single or double quotes is a string in python.
 
 single_quotes_string = 'cesar'
