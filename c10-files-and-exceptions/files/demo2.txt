@@ -1,0 +1,5 @@
+In Python, I learn to work with list and dictionaries.
+In Python, I learn to use conditional statements.
+In Python, I learn how to use loops.
+In Python, I learn the basics of the oriented object programming, and
+right now, I learning how to read the content of a file!
