@@ -1,0 +1,4 @@
+writing in a file.
+writing another line in a file.
+appending line 1.
+appending line 2.
