@@ -1,3 +1,4 @@
-name: cesar, book: naruto manga.
-name: marcos, book: hajime no ippo manga.
-name: jenni, book: crepusculo.
+name: cesar, book: kimetsu no yaiba.
+name: marcos, book: one piece.
+name: aldo, book: boku no hero.
+name: maritza , book: inuyasha.
