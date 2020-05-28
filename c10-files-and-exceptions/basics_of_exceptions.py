@@ -46,7 +46,7 @@ while True:
 
 
 # handling the FileNotFoundError exception
-filename = 'c10-files-and-exceptions\\files\\demo5.txt'
+filename = 'c10-files-and-exceptions\\files\\demo4.txt'
 
 try:
     with open(filename) as f:
@@ -59,4 +59,5 @@ except FileNotFoundError:
     # to do nothing in a block.
     pass
 else:
+    print(f"\ncontent of the file {filename}:\n")
     print(contents)
