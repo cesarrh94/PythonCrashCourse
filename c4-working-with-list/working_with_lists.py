@@ -2,7 +2,7 @@
 """ to make a slice, you specify the index of the first and last elements you want to
 work with. """
 players = ['cesar', 'jenni', 'marcos', 'rosalba', 'rafa']
-print(players[0:3])
+print(f'slicing from 0:3 {players[0:3]}')
 
 """ if you omit the first index, python automatically starts your slice at the beginning 
 of the list. Is the same case if you omit the second index it will stop at the end of 
