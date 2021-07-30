@@ -12,14 +12,14 @@ list_to_millon = []
 for value in range(1, 1000000):
     number_to_append = value
     list_to_millon.append(number_to_append)
-    
+
 print(sum(list_to_millon))
 
 
 for n in range(3, 31):
     if (n % 3 == 0):
         print(n)
-    
+
 
 cubes_list = []
 for value in range(1, 11):
