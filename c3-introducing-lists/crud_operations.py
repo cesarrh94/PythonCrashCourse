@@ -8,11 +8,11 @@ print(f'motorcycles list (last element modified): {motorcycles}')
 
 # adding element to the end of the list
 motorcycles.append('vemon')
-print(f'motorcycles list (element add): {motorcycles}')
+print(f'motorcycles list (appending element): {motorcycles}')
 
-# adding elements into a list (any position)
+# inserting elements into a list (any position)
 motorcycles.insert(2, 'suzuki')
-print(f'motorcycles list (element add): {motorcycles}')
+print(f'motorcycles list (inserting element in position 2 of the list): {motorcycles}')
 
 # removing elements using the del statement
 del motorcycles[2]

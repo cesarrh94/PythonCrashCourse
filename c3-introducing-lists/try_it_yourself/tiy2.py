@@ -1,5 +1,6 @@
 guests = ['jenni', 'aldo', 'ricardo']
-guests[2] = 'maritza' # changing invitation of ricardo to maritza
+# changing invitation of ricardo to maritza
+guests[2] = 'maritza'
 
 # adding to the begging, in the middle and at the end!
 guests.insert(0, 'martin')
