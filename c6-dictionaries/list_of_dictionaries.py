@@ -18,4 +18,4 @@ for person in persons[:5]:
     print(person)
 
 # 4. show how many persons have been created
-print(f'Total number of persons: {len(persons)}') 
+print(f'Total number of persons: {len(persons)}')

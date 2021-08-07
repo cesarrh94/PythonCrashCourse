@@ -19,7 +19,7 @@ users = {
 
 for user_number, user_info in users.items():
     print(f"\nuser_number: {user_number}")
-    
+
     name = user_info['name']
     country = user_info['country']
 
